@@ -34,7 +34,7 @@ To merge CTRF reports in a specified directory, use the following command:
 
 ```sh
 npx merge-ctrf <directory>
-``` 
+```
 
 Replace `directory` with the path to the directory containing the CTRF reports you want to merge.
 
